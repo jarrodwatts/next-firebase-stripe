@@ -12,7 +12,7 @@ Please see the **blog post** of how this repository works, here:
 
 [Blog Post](https://blog.jarrodwatts.com/set-up-subscription-payments-with-stripe-using-firebase-and-nextjs)
 
-## Thanks You!
+## Thank You!
 
 Thanks for supporting my content.
 
